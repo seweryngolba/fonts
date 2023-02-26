@@ -1,3 +1,6 @@
+p {
+  font-size: 33px;
+}
 .one {
   font-family: Gloock, Arial, Helvetica, sans-serif;
 }
@@ -6,4 +9,7 @@
 }
 .three {
   font-family: "Shantell Sans", cursive, Arial, Helvetica, sans-serif;
+}
+.four {
+  font-family: "Lato", sans-serif, Arial, Helvetica, sans-serif;
 }
